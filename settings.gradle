@@ -1,0 +1,3 @@
+include ':clientapp'
+rootProject.name='Submission 1'
+include ':app'
